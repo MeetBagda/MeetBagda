@@ -4,7 +4,6 @@
 I'm a passionate B.Tech CSE student with a strong interest in **Web Development**, **Data Science**, and **AI/ML**. I love building cool projects, contributing to open source, and continuously learning new technologies to chase tech excellence.
 
 ## 🔭 Current Focus
-- 🌐 Working on [Web Development] projects using the MERN stack.
 - 🤖 Diving deeper into **AI/ML** concepts and learning to implement models with TensorFlow.
 - 💻 Contributing to meaningful open source projects that can make a real impact on the community.
   
