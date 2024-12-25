@@ -17,9 +17,10 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
 ![](https://github-readme-stats.vercel.app/api?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MeetBagda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetbagda035/) 💼
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetbagda035) 🐦
 
-## 💬 Let's Connect!
-- [Twitter](https://x.com/meetbagda035) 🐦
-- [LinkedIn](https://www.linkedin.com/in/meetbagda035/) 💼
+[![](https://visitcount.itsvg.in/api?id=MeetBagda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *I'm always open to collaborating on interesting projects, contributing to open-source, and learning from the community. Feel free to reach out!*
