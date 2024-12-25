@@ -13,6 +13,8 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
 - **Runner-up** team member at DU - Hackathon 2023.
 
 ![](https://github-readme-stats.vercel.app/api?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MeetBagda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 💬 Let's Connect!
 - [Twitter](https://x.com/meetbagda035) 🐦
