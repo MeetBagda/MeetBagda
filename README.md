@@ -12,6 +12,8 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
 - **Runner-up** in DU - Frolic 2023 Code-A-Thon.
 - **Runner-up** team member at DU - Hackathon 2023.
 
+![](https://github-readme-stats.vercel.app/api?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ## 💬 Let's Connect!
 - [Twitter](https://x.com/meetbagda035) 🐦
 - [LinkedIn](https://www.linkedin.com/in/meetbagda035/) 💼
