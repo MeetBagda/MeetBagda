@@ -1,4 +1,4 @@
-# Hi there, I'm Meet! 👋
+# Hi there, I'm Meet! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=MeetBagda&color=brightgreen" />
 
 ## 🚀 About Me
 I'm a passionate B.Tech CSE student with a strong interest in **Web Development**, **Data Science**, and **AI/ML**. I love building cool projects, contributing to open source, and continuously learning new technologies to chase tech excellence.
