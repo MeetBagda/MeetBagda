@@ -40,7 +40,7 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
   <a href="https://dev.to/meet_bagda">
     <img src="https://skillicons.dev/icons?i=devto&perline=1" />
   </a>
-  <a href="(https://www.linkedin.com/in/meetbagda035/)">
+  <a href="([https://www.linkedin.com/in/meetbagda035/](https://www.linkedin.com/in/meetbagda035/))">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
 </p>
