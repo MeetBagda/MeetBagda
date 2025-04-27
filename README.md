@@ -24,6 +24,31 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
 ![](https://github-readme-stats.vercel.app/api?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MeetBagda)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeetBagda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://github.com/MeetBagda">
+    <img src="https://skillicons.dev/icons?i=github&perline=1" />
+  </a>
+  <a href="mailto:meet.dev035@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
+  </a>
+  <a href="https://x.com/meetbagda035">
+    <img src="https://skillicons.dev/icons?i=x&perline=1" />
+  </a>
+  <a href="https://dev.to/meet_bagda">
+    <img src="https://skillicons.dev/icons?i=devto&perline=1" />
+  </a>
+  <a href="(https://www.linkedin.com/in/meetbagda035/)">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=for-the-badge"/>
+</p>
+
+
 ### 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetbagda035/) 💼
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetbagda035) 🐦
