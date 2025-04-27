@@ -45,6 +45,6 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
   </a>
 </p>
 
-[![visit counter](https://visitcount.itsvg.in/api?id=MeetBagda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MeetBagda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *I'm always open to collaborating on interesting projects, contributing to open-source, and learning from the community. Feel free to reach out!*
