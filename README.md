@@ -35,7 +35,7 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
     <img src="https://skillicons.dev/icons?i=gmail&perline=1" />
   </a>
   <a href="https://x.com/meetbagda035">
-    <img src="https://skillicons.dev/icons?i=x&perline=1" />
+    <img src="https://skillicons.dev/icons?i=twitter&perline=1" />
   </a>
   <a href="https://dev.to/meet_bagda">
     <img src="https://skillicons.dev/icons?i=devto&perline=1" />
