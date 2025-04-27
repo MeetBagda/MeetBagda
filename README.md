@@ -44,15 +44,7 @@ I'm a passionate B.Tech CSE student with a strong interest in **Web Development*
     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=definitelynotchirag&style=for-the-badge"/>
-</p>
 
-
-### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetbagda035/) 💼
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/meetbagda035) 🐦
-
-[![](https://visitcount.itsvg.in/api?id=MeetBagda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![visit counter](https://visitcount.itsvg.in/api?id=MeetBagda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *I'm always open to collaborating on interesting projects, contributing to open-source, and learning from the community. Feel free to reach out!*
