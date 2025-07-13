@@ -11,7 +11,7 @@
 I'm a passionate B.Tech CSE student with a strong interest in **Web Development**, **Data Science**, and **AI/ML**. I love building cool projects, contributing to open source, and continuously learning new technologies to chase tech excellence.
 
 ## Resume
-https://drive.google.com/file/d/1QFXulAdRQ-hZ6QivKc5rpR21Eh4czSM9/view?usp=sharing
+https://drive.google.com/file/d/1sYdAZrXYwM47lu5C90Hfyyv5f_n7AMSa/view?usp=drive_link
 
 ## 🔭 Current Focus
 - 🤖 Diving deeper into **AI/ML** concepts and learning to implement models with ScikitLearn.
