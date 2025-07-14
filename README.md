@@ -7,8 +7,7 @@
 
 # Hi there, I'm Meet! 👋
 
-## 🚀 About Me
-I'm a passionate B.Tech CSE student with a strong interest in **Web Development**, **Data Science**, and **AI/ML**. I love building cool projects, contributing to open source, and continuously learning new technologies to chase tech excellence.
+### Open Source AI/ML Contributor | AGI Research Enthusiast | Full Stack Developer | Building the Future of Artificial Intelligence
 
 ## Resume
 https://drive.google.com/file/d/1sYdAZrXYwM47lu5C90Hfyyv5f_n7AMSa/view?usp=drive_link
