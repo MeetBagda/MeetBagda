@@ -7,7 +7,7 @@
 
 # Hi there, I'm Meet! 👋
 
-### Open Source AI/ML Contributor | AGI Research Enthusiast | Full Stack Developer | Building the Future of Artificial Intelligence
+## Open Source AI/ML Contributor | AGI Research Enthusiast | Full Stack Developer | Building the Future of Artificial Intelligence
 
 ## Resume
 https://drive.google.com/file/d/1sYdAZrXYwM47lu5C90Hfyyv5f_n7AMSa/view?usp=drive_link
